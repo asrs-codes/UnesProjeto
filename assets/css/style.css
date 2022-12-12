@@ -1,0 +1,32 @@
+body {
+    margin: 4px;
+}
+
+.navbar {
+    width: 100%;
+    background-color: rgb(250, 236, 218);
+    top: 0;
+}
+
+.tda {
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+    padding-right: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 17, 255);
+}
+
+a:hover {
+    color: rgba(107, 152, 250, 0.692)
+}
+
+table {
+    border: 0;
+    width: 900px;
+    text-align: left;
+}
